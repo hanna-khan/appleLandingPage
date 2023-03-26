@@ -1,0 +1,42 @@
+.flex {
+  display: flex;
+}
+.dark {
+  color: var(--dark);
+}
+.pure {
+  color: var(--pure);
+}
+.red {
+  color: #a31a1f;
+}
+.grey{
+  color: #555558;
+}
+.blue{
+  color: #0669cd;
+}
+.center {
+  text-align: center;
+}
+.pdt-50 {
+  padding-top: 50px;
+}
+.ptpd{
+  margin: 12px 0;
+}
+.ls-5{
+    letter-spacing: 5px;
+}
+.fz-10{
+    font-size: 5px;
+}
+.lh-1{
+  line-height: 1.3;
+}
+.heading-bold{
+  letter-spacing: 0.5px;
+  font-weight: bold;
+  color:rgb(70, 70, 70) !important;
+  padding-bottom: 10px;
+}
